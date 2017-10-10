@@ -18,10 +18,10 @@ html {
 }
 
 body {
-   background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Cool-Wallpaper-Background-22.png");
+ background: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Cool-Wallpaper-Background-22.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center; 
+  background-size: 100% 100%;
 	font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
