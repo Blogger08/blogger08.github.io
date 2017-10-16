@@ -38,3 +38,4 @@ Next go a few rows down and type in =if((the box you just typed the code in = 1)
 
 To improve on these lessons I am going to try and depend more on myself than others and fully complete the work before I help others who are behind as it will slow down my learning.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8QZJo0LXOuphHRR8Y0G_c_03AQpyw5vr7_oXYgQ2RrN82GMxg9rR7M2rkHL1emPJOaTWqrZ52NHd_/pubhtml?widget=true&amp;headers=false"></iframe>
