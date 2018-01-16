@@ -1,14 +1,14 @@
 ---
-title: pocket money
+title: Pocket money
 layout: post
 author: alex.coyne
 permalink: /pocket-money/
 source-id: 12eNuliqgnY4xX3YZU0v6Nr8NfO8-IrdjOvszEkQhfcc
 published: true
 ---
-**Pocket money deals     ****4/12/17**
+**Pocket money deals     4/12/17
 
-**Starting point:**
+**Starting point:
 
 Starting with the basics of coding
 
